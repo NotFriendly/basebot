@@ -11,7 +11,7 @@ type setDescription struct {
 	Language_code string `json:"language_code"` // 语言代码
 }
 
-func (bot *BotExt) setDescription(description string, language_code string) (*types.Message, error) {
+func (bot *BotExt) SetDescription(description string, language_code string) (*types.Message, error) {
 	request := setDescription{
 		Description:   description,
 		Language_code: language_code,
