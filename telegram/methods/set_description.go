@@ -17,7 +17,7 @@ func (bot *BotExt) SetDescription(description string, language_code string) (*ty
 		Language_code: language_code,
 	}
 
-	res, err := bot.Call("sendDocument", request)
+	res, err := bot.Call("setMyDescription", request)
 	if err != nil {
 		return nil, err
 	}
