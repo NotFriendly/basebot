@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/NotFriendly/basebot/telegram/types"
+	"github.com/lookming1566/basebot/telegram/types"
 )
 
 // 应答查询回调

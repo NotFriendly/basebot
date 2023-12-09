@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/NotFriendly/basebot/telegram/methods"
-	"github.com/NotFriendly/basebot/telegram/types"
+	"github.com/lookming1566/basebot/telegram/methods"
+	"github.com/lookming1566/basebot/telegram/types"
 )
 
 // 消息队列

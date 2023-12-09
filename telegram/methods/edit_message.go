@@ -3,7 +3,7 @@ package methods
 import (
 	"encoding/json"
 
-	"github.com/NotFriendly/basebot/telegram/types"
+	"github.com/lookming1566/basebot/telegram/types"
 )
 
 type editMessageText struct {

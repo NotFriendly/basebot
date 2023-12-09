@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/NotFriendly/basebot/telegram/types"
+	"github.com/lookming1566/basebot/telegram/types"
 )
 
 // 默认容量

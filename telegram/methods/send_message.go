@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"reflect"
 
-	"github.com/NotFriendly/basebot/telegram/types"
+	"github.com/lookming1566/basebot/telegram/types"
 )
 
 // 键盘按钮

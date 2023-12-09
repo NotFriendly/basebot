@@ -11,9 +11,9 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/NotFriendly/basebot/telegram/methods"
-	"github.com/NotFriendly/basebot/telegram/types"
 	"github.com/gorilla/mux"
+	"github.com/lookming1566/basebot/telegram/methods"
+	"github.com/lookming1566/basebot/telegram/types"
 )
 
 // 匹配webhook

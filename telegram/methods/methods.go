@@ -5,13 +5,12 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/lookming1566/basebot/telegram/types"
 	"io"
 	"io/ioutil"
 	"mime/multipart"
 	"net/http"
 	"strings"
-
-	"github.com/NotFriendly/basebot/telegram/types"
 )
 
 // 字段信息

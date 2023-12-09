@@ -3,7 +3,7 @@ package history
 import (
 	"errors"
 
-	"github.com/NotFriendly/basebot/hashdb"
+	"github.com/lookming1566/basebot/hashdb"
 )
 
 // 历史管理器
